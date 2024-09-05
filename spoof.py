@@ -190,7 +190,7 @@ def main():
     [1] ==> Convert file to JPG
     [2] ==> Convert file to PDF
     [3] ==> Convert file to TXT
-    [4] ==> Convert file to DPCX
+    [4] ==> Convert file to DOCX
     [5] ==> Convert file to MP4
     [6] ==> Convert file to GIF
     [7] ==> Convert file to MP3
