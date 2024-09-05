@@ -49,3 +49,10 @@ python3 spoof.py
 # Screenshot
 ![ext](https://github.com/user-attachments/assets/d95225a1-dd58-4024-8646-12b4c8f1f113)
 
+# Feedback
+
+- If you have any feedback, please reach out to us at
+-  [INSTAGRAM](https://instagram.com/ethicalfaizan)
+-  [GITHUB](https://github.com/faizan-khanx)
+-  [EMAIL](mailto:fk776794@gmail.com)
+
