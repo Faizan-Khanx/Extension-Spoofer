@@ -1,23 +1,20 @@
-## ExtSpoof
-![](https://files.catbox.moe/sbczct.png)
+## EXTENSION SPOOFER
 
-![](https://img.shields.io/badge/category-phishing-blue)
-![](https://img.shields.io/badge/version-3.6-red)
-![](https://img.shields.io/badge/status-active-green)
-![](https://img.shields.io/badge/licens-GPLV3-white)
+![sss](https://github.com/user-attachments/assets/52000bea-d774-40e0-9fe7-7bce66bf30f2)
 
+ **A Simple Extension Spoofer Script Which Can Spoof Your File Extension**
 
-extension spoofer (apk to jpg, exe to jpg , etc) you can spoof any extension you want
-<br>
-with it you can hide your malware and make advanced phishing attacks
+-  apk to jpg , txt , docx , mp4 , mp3 , pdf , gif
+-  jpg to apk , txt , docx , mp4 , mp3 , pdf , gif
+-  txt to jpg , apk , docx , mp4 , mp3 , pdf , gif
+-  docx to jpg , txt , apk , mp4 , mp3 , pdf , gif
+-  mp4 to jpg , txt , docx , apk , mp3 , pdf , gif
+-  mp3 to jpg , txt , docx , mp4 , apk , pdf , gif
+-  pdf to jpg , txt , docx , mp4 , mp3 , apk , gif
+-  gif to jpg , txt , docx , mp4 , mp3 , apk , gif
 
-
- 
-# Social media links
-the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a> and my <a href="https://t.me/TheEthicalGuy">telegram channel</a>
-
-
-# how to install and run
+  
+# INSTALLATION
 
 ```
 apt update
@@ -26,18 +23,29 @@ apt update
 apt install git
 ```
 ```
-git clone https://github.com/The-Ethical-Guy/ExtSpoof.git
+git clone https://github.com/Faizan-Khanx/Extension-Spoofer.git
 ```
 ```
-cd ExtSpoof
+cd Extension-Spoofer
 ```
 ```
 pip install -r requirements.txt
 ```
 ```
-python3 main.py
+python3 spoof.py
+```
+
+# One Time Installation
+
+```
+apt update
+apt install git
+git clone https://github.com/Faizan-Khanx/Extension-Spoofer.git
+cd Extension-Spoofer
+pip install -r requirements.txt
+python3 spoof.py
 ```
 
 # Screenshot
-![](https://files.catbox.moe/zvxeie.png)
+![ext](https://github.com/user-attachments/assets/d95225a1-dd58-4024-8646-12b4c8f1f113)
 
